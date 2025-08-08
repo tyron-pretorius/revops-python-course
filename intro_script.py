@@ -25,7 +25,7 @@ if __name__ == "__main__":
     
   # A variable stores information we can use later.
   # Here's a variable storing your name.
-  name = "Tyron"
+  name = "Tyrone"
 
   # Here's a variable storing your job title
   job_title = "Revenue Operations Analyst"
