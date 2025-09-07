@@ -25,10 +25,10 @@ if __name__ == "__main__":
     
   # A variable stores information we can use later.
   # Here's a variable storing your name.
-  name = "Tyrone"
+  name = "Alex"
 
   # Here's a variable storing your job title
-  job_title = "Revenue Operations Analyst"
+  job_title = "Marketing Operations Specialist"
 
   # A number variable representing how many leads you generate per day
   daily_leads = 25
